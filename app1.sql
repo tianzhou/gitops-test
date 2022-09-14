@@ -1,1 +1,1 @@
-CREATE TABLE t1 (name TEXT)
+CREATE TABLE taaa (name TEXT)
